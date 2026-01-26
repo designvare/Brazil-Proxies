@@ -1,90 +1,90 @@
 # Bright Data's Brazil Proxies
 
-[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.com/locations/br) 
+[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.de/locations/br) 
 
-## Overview
-Experience seamless scraping with Bright Data's [Brazil proxies](https://brightdata.com/locations/br), designed to provide precise targeting, unmatched stability, and rapid response times. Start scraping websites from Brazil and don't get blocked again.
+## Übersicht
+Erleben Sie nahtloses Scraping mit den [Brazil Proxies](https://brightdata.de/locations/br) von Bright Data, die für präzises Targeting, unübertroffene Stabilität und schnelle Antwortzeiten entwickelt wurden. Beginnen Sie damit, Websites aus Brasilien zu scrapen, und werden Sie nicht wieder blockiert.
 
-- **3.8M Brazil proxy IPs**
-- **Sticky and rotating sessions**
-- **99.95% success rate**
-- **HTTP(S) & SOCKS5 support**
-- **City, state, ZIP code level targeting (Free)**
+- **3,8M Brazil Proxy IPs**
+- **Sticky und rotierende Sitzungen**
+- **99,95% Erfolgsquote**
+- **HTTP(S) & SOCKS5-Unterstützung**
+- **Targeting auf Stadt-, Bundesstaat- und Postleitzahl-Ebene (kostenlos)**
 
-## Key Features
-- **High Success Rates**: Achieve up to 99.95% success in your scraping projects.
-- **Fast Response**: Average response time of ~0.7 seconds.
-- **Ethically Sourced**: All proxies are sourced with explicit user consent.
-- **Unlimited Concurrent Sessions**: Scale your operations without limitations.
+## Hauptfunktionen
+- **Hohe Erfolgsquoten**: Erreichen Sie bis zu 99,95% Erfolg in Ihren Scraping-Projekten.
+- **Schnelle Antwort**: Durchschnittliche Antwortzeit von ~0,7 Sekunden.
+- **Ethisch bezogen**: Alle Proxies werden mit ausdrücklicher Zustimmung der Nutzer bezogen.
+- **Unbegrenzte gleichzeitige Sitzungen**: Skalieren Sie Ihre Abläufe ohne Einschränkungen.
 
-## Types of Brazil Proxies
+## Arten von Brazil Proxies
 
-**[**Residential proxies**](https://brightdata.com/proxy-types/residential-proxies)** - Enjoy effortless scraping with the fastest residential proxies in the industry. Take advantage of accurate targeting and unparalleled reliability.
+**[**Residential Proxies**](https://brightdata.de/proxy-types/residential-proxies)** - Profitieren Sie von mühelosem Scraping mit den schnellsten Residential Proxies der Branche. Nutzen Sie präzises Targeting und unvergleichliche Zuverlässigkeit.
   
-- **3.5M Brazil residential IPs**
-- **HTTP(S)/ & SOCKS5 supported**
-- **Global customer support**
+- **3,5M Brazil Residential IPs**
+- **HTTP(S)/ & SOCKS5 unterstützt**
+- **Globaler Kundensupport**
 
-**[**Datacenter proxies**](https://brightdata.com/proxy-types/datacenter-proxies)** - Effortlessly scale anonymous data collection using the fastest and most dependable datacenter IP pool.
+**[**Datacenter proxies**](https://brightdata.de/proxy-types/datacenter-proxies)** - Skalieren Sie die anonyme Datenerfassung mühelos mit dem schnellsten und zuverlässigsten Rechenzentrums-Proxy-IP-Pool.
   
-- **29,900 Brazil datacenter IPs**
-- **0.24s resonse time**
-- **Pay-Per-IP or bandwidth usage**
+- **29.900 Brazil Rechenzentrums-Proxy IPs**
+- **0,24s resonse time**
+- **Pay-Per-IP oder Bandbreitennutzung**
 
-**[**ISP proxies**](https://brightdata.com/proxy-types/isp-proxies)** - Highest quality static residential proxies that you can keep for life.
+**[**ISP proxies**](https://brightdata.de/proxy-types/isp-proxies)** - Statische Residential Proxies in höchster Qualität, die Sie lebenslang behalten können.
   
-- **11,700 Brazil static residential IPs**
-- **Pay-per-IP or by bandwidth usage**
-- **Fastest response time in the industry**
+- **11.700 Brazil statische Residential IPs**
+- **Pay-per-IP oder nach Bandbreitennutzung**
+- **Schnellste Antwortzeit der Branche**
 
-**[**Mobile proxies**](https://brightdata.com/proxy-types/mobile-proxies)** - View the web as real mobile users do with mobile IPs from around the globe.
+**[**Mobile proxies**](https://brightdata.de/proxy-types/mobile-proxies)** - Sehen Sie das Web so, wie echte mobile Nutzer es tun – mit mobilen IPs aus der ganzen Welt.
   
-- **230,800 Brazil mobile proxy IPs**
-- **3G/4G/5G mobile IPs**
-- **24/7 global support**
+- **230.800 Brazil Mobile Proxy IPs**
+- **3G/4G/5G Mobile IPs**
+- **24/7 globaler Support**
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/locations/br) 
+[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.de/locations/br) 
 
-## Getting Started with Bright Data's Brazil proxies
-1. **Start Free Trial**: No credit card required.
-2. **Integration**: Use our APIs or Control Panel to manage IPs and configurations.
-3. **Supported Languages**: Quick start examples provided for Python, Java, C#, Node.js, and Shell.
+## Erste Schritte mit den Brazil Proxies von Bright Data
+1. **Kostenlose Testversion starten**: Keine Kreditkarte erforderlich.
+2. **Integration**: Verwenden Sie unsere APIs oder das Control Panel, um IPs und Konfigurationen zu verwalten.
+3. **Unterstützte Sprachen**: Quick-Start-Beispiele werden für Python, Java, C#, Node.js und Shell bereitgestellt.
 
-## Integrations
-Our Brazil proxies integrate with popular tools and frameworks, including:
+## Integrationen
+Unsere Brazil Proxies lassen sich in gängige Tools und Frameworks integrieren, darunter:
 
-- [**Puppeteer**](https://brightdata.com/integration/puppeteer)
-- [**Selenium**](https://brightdata.com/integration/selenium)
-- [**Playwright**](https://brightdata.com/integration/playwright)
-- [**AdsPower**](https://brightdata.com/integration/adspower)
-- [**MultiLogin**](https://brightdata.com/integration/multilogin)
-- [**All proxy integrations**](https://brightdata.com/integration)
+- [**Puppeteer**](https://brightdata.de/integration/puppeteer)
+- [**Selenium**](https://brightdata.de/integration/selenium)
+- [**Playwright**](https://brightdata.de/integration/playwright)
+- [**AdsPower**](https://brightdata.de/integration/adspower)
+- [**MultiLogin**](https://brightdata.de/integration/multilogin)
+- [**All proxy integrations**](https://brightdata.de/integration)
 
-## Popular Use Cases
-Explore how businesses leverage Brazil proxies:
+## Beliebte Anwendungsfälle
+Erfahren Sie, wie Unternehmen Brazil Proxies nutzen:
 
-- [**eCommerce**](https://brightdata.com/use-cases/ecommerce): Track pricing and reviews.
-- [**Social Media**](https://brightdata.com/use-cases/social-media-for-marketing): Monitor trends.
-- [**Real Estate**](https://brightdata.com/use-cases/real-estate): Gather market data.
-- [**Travel**](https://brightdata.com/use-cases/travel): Compare prices across regions.
-- [**Financial Services**](https://brightdata.com/use-cases/financial): Analyze trends securely.
+- [**eCommerce**](https://brightdata.de/use-cases/ecommerce): Verfolgen Sie Preise und Bewertungen.
+- [**Social Media**](https://brightdata.de/use-cases/social-media-for-marketing): Beobachten Sie Trends.
+- [**Real Estate**](https://brightdata.de/use-cases/real-estate): Sammeln Sie Marktdaten.
+- [**Travel**](https://brightdata.de/use-cases/travel): Vergleichen Sie Preise über Regionen hinweg.
+- [**Financial Services**](https://brightdata.de/use-cases/financial): Analysieren Sie Trends sicher.
 
 ## FAQ
 
-### What is an Brazil proxy server?
-An Brazil proxy server is a server based in Brazil that serves as an intermediary between your device and the internet. It provides anonymity, helps bypass restrictions and blocks, enables web content scraping, and enforces content filtering policies.
+### Was ist ein Brazil Proxy-Server?
+Ein Brazil Proxy-Server ist ein Server mit Standort in Brasilien, der als Vermittler zwischen Ihrem Gerät und dem Internet dient. Er bietet Anonymität, hilft beim Umgehen von Einschränkungen und Sperren, ermöglicht Web-Scraping und setzt Richtlinien zur Inhaltsfilterung durch.
 
-### Can I target ZIP codes across Brazil?
-Yes, you can choose IPs using Brazil zip code level targeting. Bright Data also offers city and state level proxy targeting.
+### Kann ich Postleitzahlen in ganz Brasilien targeten?
+Ja, Sie können IPs über Targeting auf Brazil Postleitzahl-Ebene auswählen. Bright Data bietet außerdem Proxy-Targeting auf Stadt- und Bundesstaat-Ebene.
 
-### What types of plans are available? 
-Bright Data offers flexible pricing models, including:
+### Welche Arten von Plänen sind verfügbar? 
+Bright Data bietet flexible Preismodelle, darunter:
 
-- **Pay-As-You-Go**: Fixed rate per GB.
-- **Subscription Plans**: Monthly, yearly, and custom options.
+- **Pay-As-You-Go**: Fester Tarif pro GB.
+- **Abonnementpläne**: Monatliche, jährliche und individuelle Optionen.
 
-### Are Bright Data's Brazil Proxies compliant and safe to use?
-Bright Data’s proxies are ethically sourced, and we comply with all relevant data protection laws, including GDPR and CCPA.
+### Sind die Brazil Proxies von Bright Data konform und sicher zu verwenden?
+Die Proxies von Bright Data werden ethisch bezogen, und wir halten alle relevanten Datenschutzgesetze ein, einschließlich GDPR und CCPA.
 
-### Is there dedicated support available?
-Our dedicated support team is available 24/7 to assist you. Contact us to discuss your needs and maximize the benefits of our Dedicated proxy network.
+### Gibt es dedizierten Support?
+Unser dediziertes Support-Team steht Ihnen 24/7 zur Verfügung, um Sie zu unterstützen. Kontaktieren Sie uns, um Ihre Anforderungen zu besprechen und den Nutzen unseres Dedicated Proxy network zu maximieren.
