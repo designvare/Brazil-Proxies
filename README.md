@@ -1,6 +1,6 @@
 # Bright Data's Brazil Proxies
 
-[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.de/locations/br) 
+[![Promo](https://github.com/bright-data-de/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.de/locations/br) 
 
 ## Übersicht
 Erleben Sie nahtloses Scraping mit den [Brazil Proxies](https://brightdata.de/locations/br) von Bright Data, die für präzises Targeting, unübertroffene Stabilität und schnelle Antwortzeiten entwickelt wurden. Beginnen Sie damit, Websites aus Brasilien zu scrapen, und werden Sie nicht wieder blockiert.
@@ -43,7 +43,7 @@ Erleben Sie nahtloses Scraping mit den [Brazil Proxies](https://brightdata.de/lo
 - **3G/4G/5G Mobile IPs**
 - **24/7 globaler Support**
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.de/locations/br) 
+[![Promo](https://github.com/bright-data-de/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.de/locations/br) 
 
 ## Erste Schritte mit den Brazil Proxies von Bright Data
 1. **Kostenlose Testversion starten**: Keine Kreditkarte erforderlich.
